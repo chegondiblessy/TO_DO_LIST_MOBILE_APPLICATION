@@ -23,5 +23,5 @@ Organize and share your to-do, work, grocery, movies and household lists. No mat
 * Clone the repository: git clone https://github.com/chegondiblessy/TO_DO_LIST_MOBILE_APPLICATION.git
 * Open the project in Android Studio.
 * Build the project using the 'Build' option in Android Studio.
-* Run the app on an emulator or real device.
+* Run the app on an Android emulator or physical device.
 
